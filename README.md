@@ -19,14 +19,6 @@ It displays the current time in a 12-hour format with AM/PM and updates every se
 - HTML
 - CSS
 - JavaScript
-
----
-
-## 📷 Preview
-
-> *(Insert screenshot or GIF here)*  
-If you want, I can generate a screenshot or GIF preview for this section!
-
 ---
 
 ## 🚀 How to Run
